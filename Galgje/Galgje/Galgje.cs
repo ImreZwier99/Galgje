@@ -1,7 +1,7 @@
 ﻿using System;
 using System.Collections.Generic;
 
-namespace Galgje
+namespace game
 {
     internal class galgje
     {
